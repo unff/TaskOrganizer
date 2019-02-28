@@ -1,0 +1,7 @@
+DONE - Booker integration
+Settings page
+Allow customization via the settings page
+google calendar integration?
+DONE - get links working. ***
+Reminders for booker appts
+CleanUp

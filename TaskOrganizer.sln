@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TaskOrganizer", "TaskOrganizer\TaskOrganizer.vbproj", "{8327F04D-32F7-4BAD-9759-3229A7C0DCDD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Task Tool", "Task Tool\Task Tool.vdproj", "{C349596A-F65A-4204-957C-E8678AC61641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8327F04D-32F7-4BAD-9759-3229A7C0DCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8327F04D-32F7-4BAD-9759-3229A7C0DCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8327F04D-32F7-4BAD-9759-3229A7C0DCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8327F04D-32F7-4BAD-9759-3229A7C0DCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C349596A-F65A-4204-957C-E8678AC61641}.Debug|Any CPU.ActiveCfg = Debug
+		{C349596A-F65A-4204-957C-E8678AC61641}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
